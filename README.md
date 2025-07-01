@@ -2,6 +2,10 @@
 
 My interests are in applying machine learning and AI to tackle real-world challenges. This includes training neural networks with PyTorch, integrating Large Language Model APIs, and developing scalable backend APIs to deploy ML solutions.
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dtiourine1&show_icons=true&rank_icon=github&locale=en" alt="dtiourine" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtiourine&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
+
 <!--
 **dtiourine/dtiourine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
