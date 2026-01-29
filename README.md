@@ -2,7 +2,7 @@
 
 I’m an undergraduate mathematics student working on mechanistic interpretability and understanding the internal structure of deep neural networks. 
 
-My work centers on empirical interpretability research and contributing to open-source tools for analyzing neural network internals. I also share my notes as I learn.
+My work centers on empirical interpretability research and contributing to open-source tools for analyzing neural network internals. 
 
 <!-- 
 Links 
