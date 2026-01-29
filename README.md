@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Daniel 👋
 
-<!--
-**dtiourine/dtiourine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an undergraduate mathematics student working on mechanistic interpretability and understanding the internal structure of deep neural networks. 
 
-Here are some ideas to get you started:
+My work centers on empirical interpretability research and contributing to open-source tools for analyzing neural network internals. I also share my notes as I learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+Links 
+- Website: [danieltiourine.com] # TODO: SETUP 
+- Notes: (danieltiourine.com/notes) [https://dtiourine.github.io/] 
+- LessWrong Blog: # TODO: SETUP 
+- LinkedIn: (in/dtiourine) [https://www.linkedin.com/in/dtiourine/] 
+- Twitter/X: [optional] # TODO: SETUP? 
 -->
+
+
+
