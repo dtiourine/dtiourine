@@ -1,4 +1,4 @@
-## Hi, I'm Daniel 👋
+### Hi, I'm Daniel 👋
 
 I’m an undergraduate mathematics student working on mechanistic interpretability and understanding the internal structure of deep neural networks. 
 
